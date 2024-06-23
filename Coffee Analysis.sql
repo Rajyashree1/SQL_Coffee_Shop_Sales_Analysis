@@ -1,4 +1,4 @@
---CREATE DATABASE Coffee_Shop_Sales_Db
+CREATE DATABASE Coffee_Shop_Sales_Db
 
 --select * from [dbo].[Coffee Shop Sales ] 
 --Exec sp_columns [Coffee Shop Sales ]
